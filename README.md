@@ -1,4 +1,4 @@
-# Cloudflare Docs
+# Minekube Docs
 
 **[View the docs →](https://developers.cloudflare.com/)**
 

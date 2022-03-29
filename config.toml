@@ -1,6 +1,6 @@
-baseURL = "https://developers.cloudflare.com"
+baseURL = "https://developers.minekube.com"
 
-title = "Cloudflare Developers"
+title = "Minekube Developers"
 languageCode = "en"
 DefaultContentLanguage = "en"
 disableHugoGeneratorInject = true

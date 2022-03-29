@@ -1,9 +1,9 @@
 {
   "private": true,
   "version": "1.0.0",
-  "name": "cloudflare-docs",
-  "repository": "cloudflare/cloudflare-docs",
-  "description": "Cloudflare Developer Docs",
+  "name": "minekube-docs",
+  "repository": "minekube/minekube-docs",
+  "description": "Minekube Developer Docs",
   "scripts": {
     "dev": "hugo serve -D",
     "lint": "tsm bin/format.ts --check",

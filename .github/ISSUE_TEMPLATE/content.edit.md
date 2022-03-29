@@ -8,7 +8,7 @@ title: ''
 
 ### Existing documentation URL(s)
 
-- link(s) to existing https://developers.cloudflare.com/... pages
+- link(s) to existing https://developers.minekube.com/... pages
 
 ### Section that requires update
 
@@ -22,7 +22,7 @@ Explain the issue with the content, including any confusion it may be causing.
 
 ### How should it change?
 
-For content clarification requests, please propose a way forward that would have helped you avoid any confusion.
+For content clarification requests, please propose a way forward that would have helped you avoid any confusion.
 
 ### Additional information
 
