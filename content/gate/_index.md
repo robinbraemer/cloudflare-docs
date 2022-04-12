@@ -13,17 +13,20 @@ meta:
 # Minekube Gate documentation
 
 Gate is an [open source](https://github.com/minekube/gate) batteries-included,
-extensible, high performant & paralleled Minecraft proxy - _ready for the cloud_!
+extensible & paralleled Minecraft proxy - _ready for the cloud_!
+
+Gate works as a fully high performant replacement for legacy proxies or
+can also work alongside BungeeCord and Velocity.
 
 Gate can run locally as a tiny single binary, in a Docker container or
 alongside your organization's growing demands in a remote Kubernetes-orchestrated
 production environment in your cloud.
 
 
-
 {{<button-group>}}
   {{<button type="primary" href="/gate/get-started/guide">}}Get started{{</button>}}
-  {{<button type="secondary" href="/gate/tutorials">}}View the tutorials{{</button>}}
+
+[//]: # (  {{<button type="secondary" href="/gate/tutorials">}}View the tutorials{{</button>}})
 {{</button-group>}}
 
 {{<Aside type="note" header="Developers Note">}}
