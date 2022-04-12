@@ -1,4 +1,4 @@
-name: Railgun
+name: Connect
 logo: <svg width="48" height="48" viewBox="0 0 48
   48"  xmlns="http://www.w3.org/2000/svg"><path d="M36.8191
   19.1999H26.7241L29.8741 1.37986L27.1441 0.292358L9.93164 26.2499L11.1841
@@ -24,18 +24,18 @@ logo: <svg width="48" height="48" viewBox="0 0 48
   stop-color="white" stop-opacity="0"/></linearGradient></defs></svg>
 
 meta:
-  title: Cloudflare Railgun docs
-  description: Improve loading times by caching dynamically generated or
-    personalized web pages, dramatically reducing bandwidth usage and improving
-    download times.
-  author: '@cloudflare'
+  title: Minekube Connect docs
+#  description: Improve loading times by caching dynamically generated or
+#    personalized web pages, dramatically reducing bandwidth usage and improving
+#    download times.
+  author: '@minekube'
   image: /cf-twitter-card.png
 
 algolia:
-  index: developers-cloudflare
+  index: developers-minekube
   apikey: b23088ab4d346409f9d3ece6606344c3
   filters: '["project:railgun"]'
 
-externals:
-  - title: Cloudflare homepage
-    url: https://cloudflare.com
+#externals:
+#  - title: Minekube homepage
+#    url: https://minekube.com

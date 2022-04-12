@@ -1,4 +1,4 @@
-name: Distributed Web Gateway
+name: Gate
 logo: <svg width="48" height="48" viewBox="0 0 48 48"
   xmlns="http://www.w3.org/2000/svg"><path d="M46.35
   21.375H38.6175V10.5225L37.3875 9.30005H11.775L10.545
@@ -40,17 +40,18 @@ logo: <svg width="48" height="48" viewBox="0 0 48 48"
   stop-opacity="0"/></linearGradient></defs></svg>
 
 meta:
-  title: Cloudflare Distributed Web Gateway docs
-  description: View files stored on the InterPlanetary File System in your
-    browser. Interact with the Ethereum blockchain. Explore the Distributed Web.
-  author: '@cloudflare'
+  title: Minekube Gate docs
+  description: Improve loading times by caching dynamically generated or
+    personalized web pages, dramatically reducing bandwidth usage and improving
+    download times.
+  author: '@minekube'
   image: /cf-twitter-card.png
 
 algolia:
-  index: developers-cloudflare
+  index: developers-minekube
   apikey: b23088ab4d346409f9d3ece6606344c3
-  filters: '["project:distributed-web"]'
+  filters: '["project:railgun"]'
 
-externals:
-  - title: Cloudflare homepage
-    url: https://cloudflare.com
+#externals:
+#  - title: Minekube homepage
+#    url: https://minekube.com
