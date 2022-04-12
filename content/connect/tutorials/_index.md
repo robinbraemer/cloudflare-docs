@@ -8,6 +8,7 @@ weight: 4
 layout: table
 column_text: Type
 column_param: content_type
+draft: true
 ---
 
 # Tutorials

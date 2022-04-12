@@ -70,6 +70,17 @@ To run the following command ensure you have [`Go`](https://go.dev/doc/install),
 $ go install go.minekube.com/gate@latest
 ```
 
+### Running without installation step using Go
+
+Using Go you could even run Gate without the installation command.
+Internally Go downloads and caches the module, builds and caches it and finally runs it,
+all at once.
+```sh
+$ go run go.minekube.com/gate@latest
+```
+
+Thanks to local caching running this command a second time would start Gate even quicker.
+
 ***
 
 ## Why do you need a Minecraft proxy?

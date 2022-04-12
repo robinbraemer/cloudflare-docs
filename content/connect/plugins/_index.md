@@ -1,7 +1,8 @@
 ---
 pcx-content-type: navigation
-title: Get started
+title: Plugins
 weight: 2
+draft: true
 ---
 
 # Get started
