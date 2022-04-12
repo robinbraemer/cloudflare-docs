@@ -7,7 +7,7 @@ meta:
 
 algolia:
   index: developers-minekube
-  apikey: b23088ab4d346409f9d3ece6606344c3
+  apikey: 0d2226fc52f466a4061ab72d8faff4cd
   filters: ''
 
 externals:

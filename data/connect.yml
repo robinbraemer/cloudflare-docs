@@ -33,9 +33,9 @@ meta:
 
 algolia:
   index: developers-minekube
-  apikey: b23088ab4d346409f9d3ece6606344c3
-  filters: '["project:railgun"]'
+  apikey: 0d2226fc52f466a4061ab72d8faff4cd
+  filters: '["project:connect"]'
 
-#externals:
-#  - title: Minekube homepage
-#    url: https://minekube.com
+externals:
+  - title: Minekube homepage
+    url: https://minekube.com
